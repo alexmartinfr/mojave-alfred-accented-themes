@@ -6,7 +6,7 @@ You can have any color! Well, as long as it's *not* Black 🎩
 ## Installation
 
 You can either download the whole repository, and double-click each theme to install it in Alfred,
-or click the link under the screenshots to install the themes from Alfred's website.
+or click the links under the screenshots to install the themes you want via Alfred's website.
 
 I personnaly rock the Light Purple one most of the time, and disabled the Hat Logo in Alfred's Preferences.
 

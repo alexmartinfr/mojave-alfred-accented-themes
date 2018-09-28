@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FEFCFCC4",
+        "font" : "System Light",
+        "color" : "#00000033"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFCFDFF",
+        "font" : "System Light",
+        "color" : "#2C151FA8"
+      },
+      "backgroundSelected" : "#F74597B2",
+      "text" : {
+        "size" : 14,
+        "colorSelected" : "#FEFBFCFF",
+        "font" : "System Light",
+        "color" : "#2C151FCC"
+      },
+      "iconPaddingHorizontal" : 10,
+      "paddingVertical" : 5,
+      "iconSize" : 34
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#00000000",
+      "spacing" : 6,
+      "text" : {
+        "size" : 28,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#2C151FFF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#FFFCFDD6",
+      "paddingHorizontal" : 0,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 20,
+      "roundness" : 5,
+      "paddingVertical" : 6
+    },
+    "credit" : "@AlexMartinFR",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#561A72FF",
+      "thickness" : 0
+    },
+    "name" : "Mojave Light - Pink"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FFFFFFC4",
+        "font" : "System Light",
+        "color" : "#989898C4"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System Light",
+        "color" : "#FFFFFF6B"
+      },
+      "backgroundSelected" : "#7F7F7FE5",
+      "text" : {
+        "size" : 14,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System Light",
+        "color" : "#F2F2F2FF"
+      },
+      "iconPaddingHorizontal" : 10,
+      "paddingVertical" : 5,
+      "iconSize" : 34
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#00000000",
+      "spacing" : 6,
+      "text" : {
+        "size" : 28,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#FFFFFFF2"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#353535C4",
+      "paddingHorizontal" : 0,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 20,
+      "roundness" : 5,
+      "paddingVertical" : 6
+    },
+    "credit" : "@AlexMartinFR",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#561A72FF",
+      "thickness" : 0
+    },
+    "name" : "Mojave Dark - Gray"
+  }
+}

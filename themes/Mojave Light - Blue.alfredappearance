@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FEFCFCC4",
+        "font" : "System Light",
+        "color" : "#00000033"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FCFDFFFF",
+        "font" : "System Light",
+        "color" : "#15202CA8"
+      },
+      "backgroundSelected" : "#007AFFC4",
+      "text" : {
+        "size" : 14,
+        "colorSelected" : "#FBFCFEFF",
+        "font" : "System Light",
+        "color" : "#2C1515CC"
+      },
+      "iconPaddingHorizontal" : 10,
+      "paddingVertical" : 5,
+      "iconSize" : 34
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#00000000",
+      "spacing" : 6,
+      "text" : {
+        "size" : 28,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#15202CFF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#FCFDFFD6",
+      "paddingHorizontal" : 0,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 20,
+      "roundness" : 5,
+      "paddingVertical" : 6
+    },
+    "credit" : "@AlexMartinFR",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#561A72FF",
+      "thickness" : 0
+    },
+    "name" : "Mojave Light - Blue"
+  }
+}

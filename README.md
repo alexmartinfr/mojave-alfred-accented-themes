@@ -15,9 +15,14 @@ I personnaly rock the Light Purple one most of the time, and disabled the Hat Lo
 
 You can install the workflow designed for this set of Alfred Themes to select your Accent color and switch between Dark & Light modes. It features two commands :
 - ```theme``` : toggle between Dark & Light Themes on **both macOS and Alfred**. 
-- ```theme color``` : toggle between the Accent Color variant of this current set of Themes.
+- ```theme color``` : toggle between the Accent Color variant of this current set of Themes. (replace *color* with either *Blue*, *Purple*, *Pink*, *Red*, *Orange*, *Yellow*, *Green*, *Gray*)
 
 Known limitation : there is no way to know which is your current accent color, so there is a variable to configure in the workflow to keep the same Accent Color when toggling between Dark & Light modes. Feel free to contact me if you can think of a better way to handle this!
+
+<p align="center">
+  <img src="previews/mojave-theme-switcher.png" width="588" alt="Mojave Theme Switcher Workflow" />
+</p>
+
 
 ## Previews
 

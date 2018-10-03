@@ -10,6 +10,15 @@ or click the links under the screenshots to install the themes you want via Alfr
 
 I personnaly rock the Light Purple one most of the time, and disabled the Hat Logo in Alfred's Preferences.
 
+
+## Theme Switcher
+
+You can install the workflow designed for this set of Alfred Themes to select your Accent color and switch between Dark & Light modes. It features two commands :
+- ```theme``` : toggle between Dark & Light Themes on **both macOS and Alfred**. 
+- ```theme color``` : toggle between the Accent Color variant of this current set of Themes.
+
+Known limitation : there is no way to know which is your current accent color, so there is a variable to configure in the workflow to keep the same Accent Color when toggling between Dark & Light modes. Feel free to contact me if you can think of a better way to handle this!
+
 ## Previews
 
 

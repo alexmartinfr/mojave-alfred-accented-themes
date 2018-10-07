@@ -213,3 +213,4 @@ You can install the workflow designed for this set of Alfred Themes to select yo
 
 Thanks to <a href="https://github.com/dvlden/alfred-themes">dvldev for his stylish themes</a>,
 which inspired me to further embrace macOS Mojave's Accent Colors 🙏
+Thanks also to <a href="https://github.com/mermaid/mojave-darkmode-toggle">mermaid</a> for the Theme Switcher workflow inspiration!

@@ -18,7 +18,7 @@ You can install the workflow designed for this set of Alfred Themes to select yo
 - ```theme color``` : toggle between the Accent Color of your choice variant of this set of Themes (replace *color* with either *Blue*, *Purple*, *Pink*, *Red*, *Orange*, *Yellow*, *Green*, *Gray*).
 
 <p align="center">
-  <img src="previews/mojave-theme-switcher.png" width="588" alt="Mojave Theme Switcher Workflow" />
+  <img src="previews/mojave-theme-switcher.gif" width="600" alt="Mojave Theme Switcher Workflow" />
 </p>
 
 

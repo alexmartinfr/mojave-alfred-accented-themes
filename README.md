@@ -3,6 +3,11 @@ Collection of Dark & Light Accented Alfred Themes tailored with care for macOS M
 You can have any color! Well, as long as it's *not* Black 🎩
 
 
+## Releases
+
+- 1.0.0 : initial release, october 2018.
+- 1.1.0 : Alfred 4 compatibility, june 2019. (Thanks to Mike Barker's suggested fix)
+
 ## Installation
 
 You can either download the whole repository, and double-click each theme to install it in Alfred,

@@ -31,11 +31,11 @@
       "spacing" : 6,
       "text" : {
         "size" : 28,
-        "colorSelected" : "#000000FF",
+        "colorSelected" : "#FFFFFFF2",
         "font" : "System Light",
         "color" : "#FFFCFCF2"
       },
-      "backgroundSelected" : "#B2D7FFFF"
+      "backgroundSelected" : "#8B5758E5"
     },
     "window" : {
       "color" : "#353232C4",

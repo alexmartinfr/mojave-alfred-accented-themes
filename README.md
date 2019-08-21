@@ -5,6 +5,7 @@ You can have any color! Well, as long as it's *not* Black 🎩
 
 ## Releases
 
+- 1.2.1 : Fixed the ```theme install``` command. *August 2019*
 - 1.2.0 : New ```theme install``` command to easily download the 16 themes at once. *July 2019*
 - 1.1.1 : Alfred 4 compatibility. *June 2019*
 - 1.0.0 : Initial release. *October 2018*

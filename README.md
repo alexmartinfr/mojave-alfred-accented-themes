@@ -12,7 +12,7 @@ You can have any color! Well, as long as it's *not* Black 🎩
 
 ## Installation
 
-[Download the latest workflow](https://github.com/AlexMartinFR/mojave-alfred-accented-themes/raw/master/workflows/Mojave%20Themes%20Switcher.alfredworkflow), then use the ```theme install``` command to grab the 16 themes at once!
+[Download the latest workflow](https://github.com/AlexMartinFR/mojave-alfred-accented-themes/releases/download/v1.2.1/Mojave-Themes-Switcher.alfredworkflow), then use the ```theme install``` command to grab the 16 themes at once!
 I personnaly rock the Light Purple one most of the time, and disabled the Hat Logo in Alfred's Preferences.
 
 *If you want to clean your Alfred themes folder, here are some terminal shortcuts to open the most common Alfred preferences' locations:*

@@ -1,7 +1,5 @@
 # Mojave Alfred Accented Themes
-Collection of Dark & Light Accented Alfred Themes tailored with care for macOS Mojave & Alfred Powerpack users.  
-You can have any color! Well, as long as it's *not* Black 🎩
-
+🎩 Collection of Dark & Light Accented Alfred Themes tailored with care for macOS Mojave & Alfred Powerpack users.
 
 ## Releases
 
